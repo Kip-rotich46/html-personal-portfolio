@@ -16,6 +16,9 @@ This is a **personal portfolio website** showcasing my skills, projects, and blo
 - **FontAwesome (Icons)**
 - **Google Fonts**
 
+## Live Link
+  https://kip-rotich46.github.io/html-personal-portfolio/
+
 ## Setup Instructions
 1. Clone the repository:
    ```sh
